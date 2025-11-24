@@ -1,5 +1,5 @@
--- ## Hi there 👋
-# Utkarsh Dwivedi — Product & AI
+
+# Utkarsh Dwivedi — Product & AI👋
 
 ## About
 I build product-led solutions that combine generative AI, data engineering, and domain expertise to deliver measurable business outcomes. My work spans CRM & customer experience platforms, real-time omnichannel systems, B2B relationship CRMs, and ML-driven remote sensing products for fisheries & Earth systems.
@@ -61,7 +61,7 @@ Open to product leadership roles, AI product strategy, B2B/B2C PM roles & resear
 - IIT Kharagpur — M.Tech  
 - ICICI Lombard — Product  
 - 3+ Product Launches  
-- Domains: Insurance, Fintech, Earth Systems  
+  
 
 <!--
 **ud-iitkgp/ud-iitkgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
