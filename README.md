@@ -2,7 +2,7 @@
 # Utkarsh Dwivedi — Product & AI👋
 
 ## About
-I build product-led solutions that combine generative AI, data engineering, and domain expertise to deliver measurable business outcomes. My work spans CRM & customer experience platforms, real-time omnichannel systems, B2B relationship CRMs, and ML-driven remote sensing products for fisheries & Earth systems.
+I build product-led solutions that combine generative AI, data engineering, and domain expertise to deliver measurable business outcomes. My work spans CRM & customer experience platforms, real-time omnichannel systems, B2B relationship CRMs, and ML-driven recommendation system.
 
 ---
 
@@ -10,7 +10,7 @@ I build product-led solutions that combine generative AI, data engineering, and 
 - **49.4%** – GWP growth (CC Retention)  
 - **72.6%** – Advisor productivity uplift  
 - **$250M+** – Annual sales uplift (Bancassurance)  
-- **87.75%** – XGBoost accuracy (PFZ detection)
+- **44.23%** – PSP growth
 
 ---
 
@@ -27,29 +27,19 @@ I build product-led solutions that combine generative AI, data engineering, and 
 ### Wholesale & Bancassurance CRM
 - Mobile-first RM tool with relationship health scoring.
 - Automated cross-sell intelligence & claims-to-sales workflows.
-
-### PFZ — Earth Systems ML
-- Satellite-based ML pipeline using NOAA-AVHRR, MODIS, CAA & FSO.
-- Strengthened PFZ detection accuracy using ML classification.
-
 ---
 
 ## Tech & Methods
 - Product Strategy  
 - Roadmap & GTM  
-- LLM / Generative AI  
-- Machine Learning (XGBoost, SVM)  
-- ArcGIS & Remote Sensing  
+- LLM / Generative AI    
 - Kafka & Real-time Systems  
 - Agile, OKRs  
-
 ---
-
 ## Publications & Thesis
 **M.Tech Thesis — IIT Kharagpur**  
 *Detection of Potential Fishing Zones along the Eastern Coast of India using Machine Learning*  
 Thermal-front extraction (CAA), Fish Swarm Optimization & ML classification.
-
 ---
 
 ## Contact
@@ -58,7 +48,7 @@ Open to product leadership roles, AI product strategy, B2B/B2C PM roles & resear
 ---
 
 ## Quick Facts
-- IIT Kharagpur — M.Tech  
+- IIT Kharagpur 
 - ICICI Lombard — Product  
 - 3+ Product Launches  
   
